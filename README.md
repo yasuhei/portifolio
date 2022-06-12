@@ -10,4 +10,4 @@ Nessa primeira faze, foi realizado a página principal, o header com menu hambur
 
 
 ![imagem da aplicação final](https://github.com/yasuhei/portifolio/blob/main/body.jpeg)
-![imagem do body](https://github.com/yasuhei/portifolio/blob/main/header.jpeg)
+![imagem do body](https://github.com/yasuhei/portifolio/blob/main/body1.jpeg)
